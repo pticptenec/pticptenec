@@ -10,4 +10,5 @@
    :maxdepth: 2
 
    ./sylphide.rst
+   ./cult.rst
 
