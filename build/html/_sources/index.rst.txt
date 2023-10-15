@@ -12,4 +12,5 @@
    ./sylphide.rst
    ./cult.rst
    ./perlis.rst
+   ./maurice.rst
 
