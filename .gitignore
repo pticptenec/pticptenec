@@ -7,5 +7,10 @@ __pycache__/
 
 *.png
 
-build/
+build/*.inv
+build/*.pickle
+build/doctrees/
+
+*.swp
+
 
